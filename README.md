@@ -1,5 +1,7 @@
 # My Power BI Dashboard Portfolio 📊
 
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+
 This repository is a collection of Power BI dashboards I've developed. It tracks my journey in using Power BI, from foundational reports to more advanced interactive analyses, all aimed at turning data into clear, actionable insights.
 
 ---
