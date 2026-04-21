@@ -6,6 +6,20 @@ This repository is a collection of Power BI dashboards I've developed. It tracks
 
 ---
 
+# 📁 Repository Structure
+```text
+Power_BI_Dashboards
+├───Dashboard_1
+├───Dashboard_2
+├───Data_Sources
+│   ├───Dashboard1
+│   └───Dashboard2
+│       └───star_schema_files
+└───Images
+```
+
+---
+
 # Featured Dashboards
 
 Explore the dashboards below. Each has its own dedicated README with more details on the build process and specific features.
